@@ -1,7 +1,7 @@
 ## 📘 DBMS & Data Systems — Notes Repository
 
 This repository documents my structured learning of **Database Management Systems (DBMS)** with a strong emphasis on **fundamentals, system thinking, and real-world relevance**.
-
+  
 The notes are designed to bridge the gap between **theoretical concepts** (like data modeling and normalization) and **practical industry usage** (how databases are actually designed, queried, and optimized in production systems). Instead of rote definitions, the focus is on **why concepts exist, how they are applied, and what trade-offs they introduce**.
 
 These notes are:
