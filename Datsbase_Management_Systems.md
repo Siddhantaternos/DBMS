@@ -4,7 +4,7 @@
 
 ---  
 
-## 🧠 What is this repository?
+## 🧠 What is this repository?  
 
 This repository contains **clear, minimal, and deeply explained notes** on **Database Management Systems (DBMS)**.
 
